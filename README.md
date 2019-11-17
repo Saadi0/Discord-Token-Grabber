@@ -4,7 +4,7 @@
 - [x] Create *Read Me*.
 - [ ] Add *Main Code*.
 - [ ] Create *Installer.exe*.
-- [ ] Release Source
+- [ ] Release *Source Code*
 
 # How to Install
 
@@ -14,4 +14,4 @@
 
 # Our Website
 
-***Main Page*** [Here](http://project-jade.unaux.com/).
+*Main Website* [__Here__](http://project-jade.unaux.com/).
