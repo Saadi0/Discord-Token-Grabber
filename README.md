@@ -14,4 +14,4 @@
 
 # Our Website
 
-*Main Website* [__Here__](http://project-jade.unaux.com/).
+*Main Website* [__Here__](http://project-jade.unaux.com/index.html).
