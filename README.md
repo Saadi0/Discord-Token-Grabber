@@ -15,3 +15,7 @@
 # Our Website
 
 *Main Website* [__Here__](http://project-jade.unaux.com/index.html).
+
+#Donate BTC
+![alt text](https://ibb.co/nfV8VQx)
+*1NzYXCsSvgPpxJvM9DR8K5j5WPHu1Bii2E*
