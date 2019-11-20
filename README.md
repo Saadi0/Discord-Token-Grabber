@@ -20,8 +20,11 @@ What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 
 # How to Install.
 
+**Windows**
 1) Just run the `installer.exe` *or* `install.bat`
 
+**Linux***
+In Terminal/Command Line do `python -m pip install requests && python -m pip install dhooks`
 
 # Our Website.
 
