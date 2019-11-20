@@ -3,12 +3,12 @@
 - [x] Create *Main Repository*.
 - [x] Create *Read Me*.
 - [x] Add *Main Code*.
-- [x] Create *Installer.exe*.
+- [x] Create *Installer*.
 - [x] Release *Source Code.*
 
-- [ ] Release *Improve Functionality.*
-- [ ] Release *Add Terminal Logger.*
-- [ ] Release *Release Package.*
+- [ ] Improve *Functionality.*
+- [ ] Add *Terminal Logger.*
+- [ ] Release a *Release Package.*
 
 # How it Works.
 
