@@ -2,9 +2,13 @@
 
 - [x] Create *Main Repository*.
 - [x] Create *Read Me*.
-- [ ] Add *Main Code*.
-- [ ] Create *Installer.exe*.
-- [ ] Release *Source Code*
+- [x] Add *Main Code*.
+- [x] Create *Installer.exe*.
+- [x] Release *Source Code.*
+
+- [ ] Release *Improve Functionality*
+- [ ] Release *Add Terminal Logger*
+- [ ] Release *Release Package*
 
 # How to Install
 
