@@ -15,7 +15,7 @@
 Discord tokens are stored in `\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\` of your users data.
 This script goes into that directory of infomation than grabs the data its set to, and sends it via a webhook to a discord server.
 
-What it Grabs - ***Chrome User-data, Passwords, Computer Name, And, IP.***
+What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 
 
 # How to Install.
