@@ -1,4 +1,4 @@
-# Project Jade.
+# Discord Token Grabber.
 
 - [x] Create *Main Repository*.
 - [x] Create *Read Me*.
