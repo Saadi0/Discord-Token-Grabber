@@ -22,7 +22,7 @@ What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 
 **Windows**
 
-1) Just run the `installer.exe` *or* `install.bat`
+1) Just run the `installer.exe` ***or*** `install.bat`
 
 **Linux**
 
