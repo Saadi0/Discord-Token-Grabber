@@ -40,6 +40,7 @@ What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 [Patreon](https://www.patreon.com/lucifersangel)
 
 
-![BTC](https://i.ibb.co/NpknkWc/Ql-RDIFdhb-Gxld-A.png)
 *1NzYXCsSvgPpxJvM9DR8K5j5WPHu1Bii2E*
+
+![BTC](https://i.ibb.co/NpknkWc/Ql-RDIFdhb-Gxld-A.png)
 
