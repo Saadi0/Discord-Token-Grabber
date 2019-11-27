@@ -35,7 +35,8 @@ What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 
 *Main Website* [__Here__](http://project-jade.unaux.com/index.html).
 
-# Donate BTC
+# Donate BTC Or Though Patreon
+[Patreon](https://www.patreon.com/lucifersangel)
 *1NzYXCsSvgPpxJvM9DR8K5j5WPHu1Bii2E*
 
 
