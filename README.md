@@ -42,5 +42,4 @@ What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
 
 *0x547560603Bc159d3C0D20Ce0c2daaF109Eeb09FD*
 
-![BTC](https://i.ibb.co/NpknkWc/Ql-RDIFdhb-Gxld-A.png)
 
